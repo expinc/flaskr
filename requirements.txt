@@ -1,0 +1,5 @@
+coverage==6.3.2
+Flask==2.0.3
+pytest==6.2.4
+waitress==2.1.1
+wheel==0.34.2
